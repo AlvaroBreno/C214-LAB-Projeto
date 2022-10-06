@@ -56,7 +56,7 @@ node -v
 ## Clone o projeto no seu computador:
 
 ```bash
-git clone https://github.com/AlvaroBreno/C214-LAB-Project.git
+git clone https://github.com/AlvaroBreno/C214-LAB-Projeto.git
 
 ```
 
