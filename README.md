@@ -1,5 +1,7 @@
 <h1 align="center"> Incrementador e Decrementador </h1>
-
+<p align="center">
+  <img src="https://github.com/AlvaroBreno/C214-LAB-Projeto/actions/workflows/node.js.yml/badge.svg">
+</p>
 
 
 ## Menu
