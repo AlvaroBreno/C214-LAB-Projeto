@@ -5,9 +5,9 @@
 
 
 ## Menu
-- [Sobre](#Project)
+- [Sobre](#sobre)
 - [React](#react)
-- [Instalação e Deploy](#instalação-e-deploy)
+- [Instalação e Execução](#instalação-e-Execução)
   - [Front-end](#front-end)
   - [Back-end](#back-end)
   - [IDE de desenvolvimento](#ide-de-desenvolvimento) 
@@ -18,13 +18,13 @@
 
 ## Sobre:
 
-O projeto trata-se sobre um incrementador e decrementador unitário simples baseado em react, com dois botões para realizar o incrementador em verde e o decrementador em vermelho. Incialmente em zero, quando incrementar um valor e o mesmo ser positivo, ficará verde o numero em exibição. O mesmo acontece para caso o decremento ocorra e seja negativo, ficará em vermelho o numero em exibição
+O projeto trata-se sobre um incrementador e decrementador unitário simples baseado em react, com dois botões para realizar o incrementador em verde e o decrementador em vermelho. Inicialmente em zero, quando incrementar um valor e o mesmo ser positivo, ficará verde o numero em exibição. O mesmo acontece para caso o decremento ocorra e seja negativo, ficará em vermelho o numero em exibição.
 
 
 ## React
 
 React JS é uma biblioteca JavaScript para a criação de interfaces de usuário — ou UI de código aberto. React faz com que a criação de UIs interativas seja uma tarefa fácil. Crie views simples para cada estado na sua aplicação, e o React irá atualizar e renderizar de forma eficiente apenas os componentes necessários na medida em que os dados mudam.
-Por ser uma ferramenta no qual não é da grade curricular do curso de graduação e, a fim de aprender sobre outras ferrametas que, possivelmente possamos usar no mercado de trabalho.
+Por ser uma ferramenta no qual não é da grade curricular do curso de graduação e, a fim de aprender sobre outras ferramentas que, possivelmente possamos usar no mercado de trabalho.
 
 ## Instalação e Execução
 
@@ -59,7 +59,6 @@ node -v
 
 ```bash
 git clone https://github.com/AlvaroBreno/C214-LAB-Projeto.git
-
 ```
 
 Com o projeto clonado em sua máquina
@@ -69,7 +68,7 @@ Instale as dependencias do projeto usando o npm (com o projeto aberto na IDE).
 npm install
 ```
 
-Para fazer executar o programa, rode dentro da pasta **lab-project** do projeto:
+Para rodar o programa, execute o comando:
 
 ```bash
 npm start
@@ -81,7 +80,7 @@ Note que após a inicialização, abrirá um localhost para execução do códig
 http://localhost:3000
 ```
 
-#### Possíveis erros após a execução de **npm start**
+#### Possíveis erros após a execução de npm start
 
 * Mensagem **Something is already running on port 3000**:
 
