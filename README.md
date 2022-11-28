@@ -107,7 +107,7 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
  - [x]  Criação do README.md
  - [x]  Criação do Projeto inicial
  - [X]  Desenvolvimento do Projeto
- - [ ]  Realização dos Testes
+ - [X]  Realização dos Testes
 
 
 ## Autores
